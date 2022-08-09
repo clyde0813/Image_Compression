@@ -25,7 +25,7 @@ for file in file_list:
 ---
 |Original|Compressed (Quality : 60%)|
 |---|---|
-|Size : 474766| Size : 28012|
+|Size : 474766 Bytes| Size : 28012 Bytes|
 |Compression Percent :  0 % <br> 압축률 : 0 %|Compression Percent :  1694.8664857918036 % <br> 압축률 : 1694.8664857918036 %|
 |![Orignal](original/lena.png)|![Compressed](compressed/Compressed_lena.png.jpg)|
 # Video_Compression
