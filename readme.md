@@ -26,7 +26,7 @@ for file in file_list:
 |Original|Compressed (Quality : 60%)|
 |---|---|
 |Size : 474766| Size : 28012|
-||Compression Percent :  1694.8664857918036 % <br> 압축률 : 1694.8664857918036 %|
+|Compression Percent :  0 % <br> 압축률 : 0 %|Compression Percent :  1694.8664857918036 % <br> 압축률 : 1694.8664857918036 %|
 |![Orignal](original/lena.png)|![Compressed](compressed/Compressed_lena.png.jpg)|
 # Video_Compression
 [StackOverFlow](https://stackoverflow.com/questions/67629703/compressing-a-video-file-in-python-with-the-standard-library)
